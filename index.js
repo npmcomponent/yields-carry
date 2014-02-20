@@ -3,9 +3,9 @@
  * dependencies
  */
 
-var merge = require('merge-attrs')
-  , classes = require('classes')
-  , uniq = require('uniq');
+var merge = require('yields-merge-attrs')
+  , classes = require('component-classes')
+  , uniq = require('yields-uniq');
 
 /**
  * Export `carry`

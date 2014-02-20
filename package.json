@@ -1,0 +1,12 @@
+{
+  "name": "yields-carry",
+  "description": "Carry attrs, classes from one element to another.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "yields-merge-attrs": "git://github.com/npmcomponent/yields-merge-attrs.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "yields-uniq": "git://github.com/npmcomponent/yields-uniq.git"
+  },
+  "license": "MIT"
+}
